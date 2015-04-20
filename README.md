@@ -4,9 +4,9 @@
 
 This space is for past, current and future applicants to the Founders & Coders programmes.
 
-Please do continue to work on the [course prerequisites](http://foundersandcoders.org/apply), but meanwhile, please do join the Gitter chat using the link above and introduce yourself to other applicants.
+Please do continue to work on the [course prerequisites](http://foundersandcoders.org/apply), but meanwhile, please join the Gitter chat using the link above and introduce yourself.
 
-When you feel ready (perhaps after you have completed the [JavaScript track on Codecademy](http://www.codecademy.com/en/tracks/javascript) or read a few chapters of [Eloquent JavaScript](http://eloquentjavascript.net/), then start working on [Codewars](http://www.codewars.com/). 
+When you feel ready (perhaps after you have completed the [JavaScript track on Codecademy](http://www.codecademy.com/en/tracks/javascript) or read a few chapters of [Eloquent JavaScript](http://eloquentjavascript.net/)), then start working on [Codewars](http://www.codewars.com/). 
 
 When you have made a bit of progress with Codewars, try [creating a new kata](http://www.codewars.com/kata/new/javascript) and posting it to Gitter or trying to solve kata posted into our Gitter channel by other members.
 
